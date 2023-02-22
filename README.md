@@ -8,6 +8,6 @@ Nach dem Klonen sollte die Datei LB210/Pages/Index.cshtml angepasst werden.
 Für die LB werden zusätzliche Dateien erstellt. Die restlichen Dateien sollten nicht geändert werden.
 Viel Erfolg!
 
-# PS
+## PS
 
 Diese Website wurde NICHT von mir erstellt, sondern von einem Lehrer der BBB. Ich benötige es für eine LB.
